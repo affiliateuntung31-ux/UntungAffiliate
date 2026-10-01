@@ -1,0 +1,8 @@
+{
+  "name": "Remix AKGTK SMART PRACTICE",
+  "description": "Aplikasi latihan interaktif persiapan Asesmen Kompetensi Guru dan Tenaga Kependidikan (AKGTK) untuk Literasi, Numerasi, dan Sains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
